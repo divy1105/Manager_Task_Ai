@@ -4,7 +4,7 @@ Turn unstructured meeting notes → structured, filterable, editable tasks.
 
 **Stack:** FastAPI (backend) · React + Vite (frontend) · **Neon (Postgres)** (DB) · **Groq API (OpenAI-compatible)** (extraction)
 
-> Updated from the original plan: DB moved from SQLite → **Neon Postgres**, and LLM moved from OpenAI → **Groq** (`llama-3.3-70b-versatile`), since Groq offers a free API key. See Section 7 for updated setup.
+> Updated from the original plan: DB moved from SQLite → **Neon Postgres**, and LLM moved from OpenAI → **Groq** (`llama-3.3-70b-versatile`), since Groq offers a free API key.
 
 ---
 
